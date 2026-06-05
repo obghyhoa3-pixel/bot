@@ -1,12 +1,12 @@
 {
-  "host_domain": "http://sunwin.com.cv/",
+  "host_domain": "https://sunwin.com.cv/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.cv",
   "lp_domain": "https://sunwin.qa/",
   "lp_domain_zo": "https://zowin.tw/",
   "lp_domain_nhat": "https://nhat.is/",
-  "rs_domain": "http://sunwin.com.cv/",
+  "rs_domain": "https://sunwin.com.cv/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
     "sun.win": "https://web.sunwin.qa/",
